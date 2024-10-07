@@ -1,3 +1,3 @@
-Very Basic Implementation of Markov Chains ;)
+## Very Basic Implementation of Markov Chain ;)
 
-[https://en.wikipedia.org/wiki/Markov_chain](https://en.wikipedia.org/wiki/Markov_chain)
+[Wikipedia](https://en.wikipedia.org/wiki/Markov_chain)
